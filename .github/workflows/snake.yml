@@ -19,7 +19,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: zhangcaiqian
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#2f9e44&color_dots=#ebedf0,#d9f5c6,#a8e88b,#74d75c,#4cc44d
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v5

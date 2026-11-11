@@ -1,12 +1,4 @@
 <p align="center">
-  <img width="300" src="https://count.getloli.com/get/@zhangcaiqian?theme=moebooru" alt="visitor counter" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhangcaiqian&amp;theme=github_dark" alt="profile details" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/zhangcaiqian/zhangcaiqian/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
@@ -15,7 +7,8 @@
 - 📚 **把订阅变成资产**：做了一套 Agent 工具链，把知识星球 / 微信读书的碎片内容自动沉淀成 Markdown 知识库——同步、富化、建索引、可检索
 - 🧩 **DSH 插件作者**：把知识库脚本包成 DeepSeek Harness 原生工具，让 Agent 能直接读写频道内容
 - 🎨 **顺手折腾审美**：文房六色 —— 一套中式美学的编辑器 / 终端配色主题
-- 💰 **写点真用得上的小工具**：家庭资产记账、每日留白时间分配、每日俯卧撑打卡
+- 💰 **写点真用得上的小工具**：家庭资产记账、每日留白时间分配
+- 🌱 **生活里也在生长**：植物栽培爱好者 · 瑜伽 · 投资
 
 ## 🧠 我在做什么 · What I'm building
 
@@ -35,16 +28,16 @@ flowchart LR
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/zhangcaiqian/dsh-plugin-zsxq"><b>dsh-plugin-zsxq</b></a><br/>
-      <img src="https://img.shields.io/github/stars/zhangcaiqian/dsh-plugin-zsxq?style=flat-square&amp;label=stars" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/zhangcaiqian/dsh-plugin-zsxq?style=flat-square&amp;label=forks" alt="forks"/><br/>
-      面向 DeepSeek Harness 的知识星球知识工具集插件：把同步 / 检索 / 索引 / 自检的确定性脚本能力包成 DSH 原生工具。
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/zhangcaiqian/zsxq-skill"><b>zsxq-skill</b></a><br/>
       <img src="https://img.shields.io/github/stars/zhangcaiqian/zsxq-skill?style=flat-square&amp;label=stars" alt="stars"/>
       <img src="https://img.shields.io/github/forks/zhangcaiqian/zsxq-skill?style=flat-square&amp;label=forks" alt="forks"/><br/>
       让 Agent 把订阅的知识星球内容整理成个人知识库：频道同步、附件正文抽取、金句与多维索引构建。
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zhangcaiqian/dsh-plugin-zsxq"><b>dsh-plugin-zsxq</b></a><br/>
+      <img src="https://img.shields.io/github/stars/zhangcaiqian/dsh-plugin-zsxq?style=flat-square&amp;label=stars" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/zhangcaiqian/dsh-plugin-zsxq?style=flat-square&amp;label=forks" alt="forks"/><br/>
+      面向 DeepSeek Harness 的知识星球知识工具集插件：把同步 / 检索 / 索引 / 自检的确定性脚本能力包成 DSH 原生工具。
     </td>
   </tr>
   <tr>
@@ -55,6 +48,20 @@ flowchart LR
       Wenfang · 文房六色——一套中式美学的主题系列：Codex 导入串 + DeepSeek Harness 主题插件。
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/zhangcaiqian/algorithm-practice"><b>algorithm-practice</b></a><br/>
+      <img src="https://img.shields.io/github/stars/zhangcaiqian/algorithm-practice?style=flat-square&amp;label=stars" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/zhangcaiqian/algorithm-practice?style=flat-square&amp;label=forks" alt="forks"/><br/>
+      算法与前端基础练习归档：JS 基础、Node、面试复习清单，长期随手记录。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zhangcaiqian/caiyu-release"><b>caiyu-release</b></a><br/>
+      <img src="https://img.shields.io/github/stars/zhangcaiqian/caiyu-release?style=flat-square&amp;label=stars" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/zhangcaiqian/caiyu-release?style=flat-square&amp;label=forks" alt="forks"/><br/>
+      财鱼 · macOS 安装包发布仓库：下载入口与各版本发布记录。
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/zhangcaiqian/financial-steward"><b>financial-steward</b></a><br/>
       <img src="https://img.shields.io/github/stars/zhangcaiqian/financial-steward?style=flat-square&amp;label=stars" alt="stars"/>
       <img src="https://img.shields.io/github/forks/zhangcaiqian/financial-steward?style=flat-square&amp;label=forks" alt="forks"/><br/>
@@ -62,14 +69,6 @@ flowchart LR
     </td>
   </tr>
 </table>
-
-**更多 / More:**
-
-- [energy-allocation](https://github.com/zhangcaiqian/energy-allocation) — 你今天留白了吗？[在线体验](https://energy-allocation.vercel.app)
-- [china_history_timeline](https://github.com/zhangcaiqian/china_history_timeline) — 中国历史时间线
-- [things-timeline](https://github.com/zhangcaiqian/things-timeline) — 用时间线看事物的来龙去脉
-- [html5-game](https://github.com/zhangcaiqian/html5-game) — 童年回忆：HTML5 坦克大战
-- [-pushups](https://github.com/zhangcaiqian/-pushups) — 每日俯卧撑记录，习惯的另一种存档
 
 ## 🧰 Tech Stack · 技术栈
 
