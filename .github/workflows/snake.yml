@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: zhangcaiqian
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#2f9e44&color_dots=#ebedf0,#d9f5c6,#a8e88b,#74d75c,#4cc44d
+            dist/github-contribution-grid-snake.svg?color_snake=#2f9e44&color_dots=#ebedf0,#cdf0b5,#a3e584,#73d75a,#45c14a
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v5
